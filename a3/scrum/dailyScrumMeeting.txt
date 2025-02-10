@@ -1,0 +1,106 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 16, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 17, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 18, 2024
+	Yesterday : N/A
+	Today     : Looked at assignment files, trying to understand everything.
+	Obstacles : N/A
+
+Nov 19, 2024
+	Yesterday : Looked at assignment files, trying to understand everything.
+	Today     : Read over assignment guidelines and what is expected.
+	Obstacles : N/A
+
+Nov 20, 2024
+	Yesterday : Read over assignment guidelines and what is expected.
+	Today     : Start implementation of Polyline.
+	Obstacles : N/A
+
+Nov 21, 2024
+	Yesterday : Start implementation of Polyline.
+	Today     : Finished Polyline, started Save feature.
+	Obstacles : N/A
+
+Nov 22, 2024
+	Yesterday : Finished Polyline, started Save feature.
+	Today     : Finished save feature, also finished load feature, working on parsing test cases. Merged user story.
+	Obstacles : Unexpected and weird errors encountered while solving test cases.
+	
+Nov 23, 2024
+	Yesterday : Finished save feature, also finished load feature, working on parsing test cases. Merged user story.
+	Today     : Made progress on load feature, made basic circle load work.
+	Obstacles : N/A
+
+Nov 24, 2024
+	Yesterday : Made progress on load feature, made basic circle load work.
+	Today     : Made more progress on load feature, added support for rectangles, squiggles and polylines.
+	Obstacles : N/A
+
+Nov 25, 2024
+	Yesterday : Made more progress on load feature, added support for rectangles.
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 26, 2024
+	Yesterday : N/A
+	Today     : Refactored all parse code to handle all possible errors and passed all test cases. Merged user story.
+	Obstacles : Refactoring everything to add a lot more cases for the state.
+	
+Nov 27, 2024
+	Yesterday : Refactored all parse code to handle all possible errors and passed all test cases. Merged user story.
+	Today     : Start understanding how Ollama works and how to start prompt engineering.
+	Obstacles : N/A
+	
+Nov 28, 2024
+	Yesterday : Start understanding how Ollama works and how to start prompt engineering.
+	Today     : Made examples for Ollama to reference from.
+	Obstacles : N/A
+	
+Nov 29, 2024
+	Yesterday : Made examples for Ollama to reference from.
+	Today     : Fix possible issues with file parsing, make sure to not overcomplicate regex and made better prompts.
+	Obstacles : N/A
+
+Nov 30, 2024
+	Yesterday : Fix possible issues with file parsing, make sure to not overcomplicate regex and made better prompts.
+	Today     : Apply simplified regex to generate parseable files. Started properly researching prompt engineering.
+	Obstacles : Ollama/llama3 won't generate proper files given some prompt.
+
+Dec 1, 2024
+	Yesterday : Apply simplified regex to generate parseable files. Started properly researching prompt engineering.
+	Today     : Continued researching prompt engineering and how to make better prompts, trying new prompts and ideas.
+	Obstacles : Ollama/llama3 won't generate proper files given some prompt.
+	
+Dec 2, 2024
+	Yesterday : Continued researching prompt engineering and how to make better prompts, trying new prompts and ideas.
+	Today     : Understood prompt engineering, provided AI with as much context as possible for better consistency.
+                Added newFile1 code. Adjusted some polyline code as well.
+	Obstacles : Ollama/llama3 won't generate proper files given some prompt.
+
+Dec 3, 2024
+	Yesterday : Understood prompt engineering, provided AI with as much context as possible for better consistency.
+	            Added newFile1 code.
+	Today     : Finished code for each newfile and modifyFile and made some final code adjustments.
+	            Merged final user story and cleaned up some code.
+	Obstacles : Ollama/llama3 won't generate proper files given some prompt.
+
+Dec 4, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+

@@ -1,0 +1,12 @@
+You must have different colors for the sun each time. Also, you must change the center points x-coordinate
+each time while the y-coordinate should remain the same to be 58.
+EXAMPLE START
+Paint Save File Version 1.0
+Circle
+    color:255,255,0
+    filled:true
+    center:(383,58)
+    radius:42
+End Circle
+End Paint Save File
+EXAMPLE END

@@ -1,0 +1,80 @@
+The following example shows how to draw a house.
+EXAMPLE START
+Paint Save File Version 1.0
+Rectangle
+    color:150,75,0
+    filled:true
+    p1:(124,106)
+    p2:(337,274)
+End Rectangle
+Polyline
+    color:150,75,0
+    filled:true
+    points
+        point:(123,106)
+        point:(233,41)
+        point:(336,106)
+    end points
+End Polyline
+Rectangle
+    color:0,0,0
+    filled:true
+    p1:(206,191)
+    p2:(250,273)
+End Rectangle
+Circle
+    color:255,75,0
+    filled:false
+    center:(241,231)
+    radius:5
+End Circle
+Rectangle
+    color:0,0,0
+    filled:true
+    p1:(148,157)
+    p2:(194,201)
+End Rectangle
+Rectangle
+    color:0,0,0
+    filled:true
+    p1:(269,160)
+    p2:(318,204)
+End Rectangle
+Polyline
+    color:255,255,255
+    filled:false
+    points
+        point:(171,201)
+        point:(169,159)
+    end points
+End Polyline
+Polyline
+    color:255,255,255
+    filled:false
+    points
+        point:(149,178)
+        point:(193,179)
+    end points
+End Polyline
+Polyline
+    color:255,255,255
+    filled:false
+    points
+        point:(293,161)
+        point:(293,161)
+        point:(293,204)
+        point:(293,204)
+    end points
+End Polyline
+Polyline
+    color:255,255,255
+    filled:true
+    points
+        point:(268,181)
+        point:(268,181)
+        point:(316,181)
+        point:(316,181)
+    end points
+End Polyline
+End Paint Save File
+EXAMPLE END

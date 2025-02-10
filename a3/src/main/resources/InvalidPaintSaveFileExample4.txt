@@ -1,0 +1,4 @@
+EXAMPLE START
+EndPaintSaveFile
+PaintSaveFileVersion1.0
+EXAMPLE END

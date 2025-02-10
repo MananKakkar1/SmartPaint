@@ -1,0 +1,17 @@
+A valid PaintSaveFile must not include anything but 'Paint Save File Version 1.0' as the starting line.
+EXAMPLE START
+Here is the new paintSaveFile document resulting from the specified operation:
+Paint Save File Version 1.0
+Rectangle
+    color:255,255,255
+    filled:true
+    p1: (0,0)
+    p2: (100,100)
+End Rectangle
+End Paint Save File
+This line should not be here
+EXAMPLE END
+
+The content of the first line 1 is not "Paint Save File Version 1.0" which makes the file invalid.
+The content of the last VALID line is not "End Paint Save File" which makes the file invalid.
+

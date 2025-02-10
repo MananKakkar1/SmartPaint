@@ -1,0 +1,19 @@
+EXAMPLE START
+Paint Save File Version 1.0
+Rectangle
+    color:255,200,50
+    filled:true
+    p1:(120,300)
+    p2:(380,400)
+End Rectangle
+Polyline
+    color:50,100,150
+    filled:true
+    points
+        point:(120,300)
+        point:(380,300)
+        point:(250,150)
+    end points
+End Polyline
+End Paint Save File
+EXAMPLE END

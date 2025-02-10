@@ -1,0 +1,42 @@
+This is an example showing what the car using rectangles and circles would look like, the coordinates can be different each time, but must
+remain positive and must remain under the largest number given by the example for a point.
+EXAMPLE START
+Paint Save File Version 1.0
+Circle
+    color:210,146,248
+    filled:false
+    center:(115,198)
+    radius:43
+End Circle
+Circle
+    color:227,1,77
+    filled:true
+    center:(327,191)
+    radius:45
+End Circle
+Rectangle
+    color:171,72,133
+    filled:false
+    p1:(108,189)
+    p2:(328,83)
+End Rectangle
+Rectangle
+    color:0,215,181
+    filled:true
+    p1:(155,59)
+    p2:(283,103)
+End Rectangle
+Rectangle
+    color:165,141,57
+    filled:true
+    p1:(110,152)
+    p2:(77,146)
+End Rectangle
+Rectangle
+    color:192,136,207
+    filled:false
+    p1:(109,140)
+    p2:(79,134)
+End Rectangle
+End Paint Save File
+EXAMPLE END

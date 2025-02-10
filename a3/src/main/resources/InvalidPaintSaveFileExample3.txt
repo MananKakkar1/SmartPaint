@@ -1,0 +1,19 @@
+EXAMPLE START
+Here's the new paintSaveFile document resulting from the OPERATION:
+Paint Save File Version 1.0
+Circle
+    color:0,255,257
+    filled:true
+    center:(-50,-50)
+    radius:30
+End Rectangle
+Circle
+    color:0,255,255
+    filled:true
+    .center:(-50,-50)
+    radius,30
+End Polyline
+End DPaint Save File
+EXAMPLE END
+The content of the first line 1 is not "Paint Save File Version 1.0" which makes the file invalid.
+The content of the last line is not "End Paint Save File" which makes the file invalid.
