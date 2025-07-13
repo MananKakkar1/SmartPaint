@@ -1,4 +1,4 @@
-# 🤖🎨 AI-Enhanced Paint Application
+# 🤖🎨 SmartPaint
 
 ## 📝 Project Overview
 
