@@ -1,0 +1,6 @@
+../.env
+.idea
+*.iml
+.git
+.gitignore
+.DS_Store
